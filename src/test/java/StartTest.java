@@ -21,6 +21,10 @@ public class StartTest extends AbstractTest {
         app.tvScreen().checkSearch();
     }
 
+    @Test
+    public void secondTest(){
+        System.out.println("do something2222");
+    }
 
 
 

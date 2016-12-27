@@ -12,6 +12,5 @@ addons:
 script:
   - sonar-scanner -Dsonar.login=72e495fa0e79e5cb80206e3939f89f7cec0cf3be
 
-
 after_success:
   - bash <(curl -s https://codecov.io/bash)

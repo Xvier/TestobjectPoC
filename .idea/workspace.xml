@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d07dda23-8539-4a8c-a14b-91a2df2b4d82" name="Default" comment="test sonarqube">
+    <list default="true" id="d07dda23-8539-4a8c-a14b-91a2df2b4d82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
@@ -60,8 +60,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -887,7 +887,7 @@
       <workItem from="1482484059667" duration="5030000" />
       <workItem from="1482827656987" duration="1155000" />
       <workItem from="1482844098947" duration="6034000" />
-      <workItem from="1483347421635" duration="225000" />
+      <workItem from="1483347421635" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="Added code coverage site">
       <created>1482850038115</created>
@@ -917,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482853235307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed sonarqube settings to do test covarage">
+      <created>1483347666934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1483347666934</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25046000" />
+    <option name="totallyTimeSpent" value="25152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1120" extended-state="6" />
@@ -971,7 +978,8 @@
     <MESSAGE value="Added jacoco to build" />
     <MESSAGE value="test sonarqube" />
     <MESSAGE value="test sonarqube 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test sonarqube 2" />
+    <MESSAGE value="changed sonarqube settings to do test covarage" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed sonarqube settings to do test covarage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1388,8 +1396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>

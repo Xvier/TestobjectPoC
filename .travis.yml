@@ -3,7 +3,7 @@ jdk:
 - oraclejdk8
 sudo: false
 addons:
-  sonarqube: true
+  sonarqube:
     token:
       secure: okayJXJ4hZ1v5m+BxXv/G7Y1YkOhOoqXNSwuwA3AsHpEAxXm87+sZLUHKsRGJlUvLCgKxzAGVr+dZNAf188U/RbdeVKzoQWEvqbp9y3fzyKVzx/cT5V2eIYoKxpwNhNRW+3eC4DftmL1mKsvNr4TP8uSskbH/k46LiXt/XZd0jiKOica2KWYt2+WpXKHAmw6uqSA/6kI9u7ROrUdle4cVHAtNGlMOaT+5QCTosltwedJc3q4JLCV5G4yKYSV+VOoNRyNouwFEj6fQ8VfiZE41ck0llHu10u6qPtBE4RY22PSLqLPN0B6k0mKHXL1Fsof8cEHoMjIarFggwSLgCSpo8/ruvb6Lbrex5xymQL7O3iFeRMxzuDuCULUK8nBOpCwKX55VdGaATzKPbSZ1MpOPmVDJH0ym9rj+7kG8rFSnXZt/LaFFjG/vEU2Fy++bi6mAIyH8YmGs09drL2V/KOk3Hg5sx+9tfCFicCDROep4XZAdIuuzXfsJ7Er2pV7kks/qFmA/GacnMzHDqpGze44SgfXeqnYt0B/KTpO2E4zjv9+MAogl20Z0nJMHpJRhW+YB9uihQl+eFVY7QbR1ZVhxbSi/c4o1xwoG7uYUsW32ofJ9moa93mlGr1ZxbluPB921qM5AEExXA3NQw9/vI4DUN0fWSeQrPQFb4HQKIBx0Dk=
 script:
